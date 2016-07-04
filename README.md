@@ -19,10 +19,10 @@ menu_delay_demo2
         </div>
 
 
-        <!-- <div class="demo" id="demo3">
+         <div class="demo" id="demo3">
             <h4 class="title">Submenu Appear below</h4>
             <div class="demo-container"></div>
-        </div> -->
+        </div>
     </div>
     <script type="text/javascript" src="app.bundle.js"></script>
 </body>
